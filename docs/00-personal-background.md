@@ -3,6 +3,8 @@
 @author juscghwe ([Github](https://github.com/juscghwe))
 @brief Introduction into my person.
 -->
+---
+---
 ← [Introduction](README.md) · Next → [01 Introduction to homelabbing](01-introduction-homelabbing.md)
 
 # Personnal background

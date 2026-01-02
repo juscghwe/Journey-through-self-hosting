@@ -3,7 +3,8 @@
 @author juscghwe ([Github](https://github.com/juscghwe))
 @brief Introduction to the project.
 -->
-
+---
+---
 ← · Next → [Personal background](00-personal-background.md)
 
 # My Journey through Self-Hosting
@@ -24,7 +25,7 @@ This is not a polished guide. It’s a living document that grows as I learn.
 ## Table of contents
 
 1. [Personal background](00-personal-background.md)
-2. [What's homelabbing?](01-introduction-homelabbing)
+2. [What's homelabbing?](01-introduction-homelabbing.md)
 3. First setup
 
 <br></br>
