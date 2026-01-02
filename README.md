@@ -1,3 +1,9 @@
+<!-- 
+@file /readme.md 
+@author juscghwe ([Github](https://github.com/juscghwe))
+@brief Introduction to the project.
+-->
+
 ← · Next → [Personal background](docs/00-personal-background.md)
 
 # My Journey through Self-Hosting
