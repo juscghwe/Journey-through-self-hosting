@@ -3,7 +3,7 @@
 @author juscghwe ([Github](https://github.com/juscghwe))
 @brief Introduction into my person.
 -->
-← [Introduction](../readme.md) · Next → [Introduction to homelabbing](01-introduction-homelabbing.md)
+← [Introduction](../README.md) · Next → [Introduction to homelabbing](01-introduction-homelabbing.md)
 
 # Personnal background
 
@@ -83,4 +83,4 @@ At the end of the day, freedom of choice isn’t worth much if it comes at the c
 
 <br></br>
 
-← [Introduction](../readme.md) · Next → [Introduction to homelabbing](01-introduction-homelabbing.md)
+← [Introduction](../README.md) · Next → [Introduction to homelabbing](01-introduction-homelabbing.md)
