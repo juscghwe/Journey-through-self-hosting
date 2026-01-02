@@ -4,8 +4,11 @@
 @brief Introduction to the project.
 -->
 ---
+layout: default
+title: Home
+nav_order: 0
 ---
-← · Next → [Personal background](00-personal-background.md)
+← · [Personal background →](00-personal-background.md)
 
 # My Journey through Self-Hosting
 
@@ -15,7 +18,8 @@ This repository is my attempt to document what I’ve learned while getting into
 
 This is not a polished guide. It’s a living document that grows as I learn.
 
-> [!IMPORTANT]
+{: .important }
+> Important
 >
 > I'm not an IT professional, and this is not a security or privacy handbook.  
 > This repository documents my personal learning journey - including wrong turns and open questions.
@@ -28,6 +32,6 @@ This is not a polished guide. It’s a living document that grows as I learn.
 2. [What's homelabbing?](01-introduction-homelabbing.md)
 3. First setup
 
-<br></br>
 
-← · Next → [Personal background](00-personal-background.md)
+
+← · [Personal background →](00-personal-background.md)

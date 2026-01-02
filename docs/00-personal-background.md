@@ -4,8 +4,11 @@
 @brief Introduction into my person.
 -->
 ---
+layout: default
+title: Personnal background
+nav_order: 1
 ---
-← [Introduction](README.md) · Next → [01 Introduction to homelabbing](01-introduction-homelabbing.md)
+[← Introduction](README.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)
 
 # Personnal background
 
@@ -83,6 +86,6 @@ I’m lucky enough to have a close relative working in IT, which means I occasio
 The cost of my homelab should support learning - never endanger my quality of life.  
 At the end of the day, freedom of choice isn’t worth much if it comes at the cost of financial stress.
 
-<br></br>
 
-← [Introduction](README.md) · Next → [01 Introduction to homelabbing](01-introduction-homelabbing.md)
+
+[← Introduction](README.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)

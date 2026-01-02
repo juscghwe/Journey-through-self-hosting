@@ -4,13 +4,16 @@
 @brief What i though homelabbing was and what it tourned out to be.
 -->
 ---
+layout: default
+title: What's homelabbing?
+nav_order: 2
 ---
-← [Personnal background](00-personal-background.md) · Next → [02 First Setup](02-first-setup.md)
+[← Personnal background](00-personal-background.md) · [→ First Setup](02-first-setup.md)
 
 # What's homelabbing?
 
 tbd
 
-<br></br>
 
-← [Personnal background](00-personal-background.md) · Next → [02 First Setup](02-first-setup.md)
+
+[← Personnal background](00-personal-background.md) · [→ First Setup](02-first-setup.md)
