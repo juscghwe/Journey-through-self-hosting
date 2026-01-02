@@ -24,7 +24,7 @@ This is not a polished guide. It’s a living document that grows as I learn.
 ## Table of contents
 
 1. [Personal background](docs/00-personal-background.md)
-2. Introduction to homelabbing
+2. [What's homelabbing?](docs/01-introduction-homelabbing)
 3. First setup
 
 <br></br>
