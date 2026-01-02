@@ -1,0 +1,12 @@
+title: Journey through self-hosting
+description: A beginner-friendly learning journal about self-hosting and homelabbing.
+theme: just-the-docs
+color_scheme: dark
+search_enabled: true
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: purple
