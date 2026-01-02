@@ -1,5 +1,11 @@
-<details>
-<summary>Personnal background</summary>
+<!-- 
+@file /docs/00-personal-background.md 
+@author juscghwe ([Github](https://github.com/juscghwe))
+@brief Introduction into my person.
+-->
+← [Introduction](../readme.md) · Next → [Introduction to homelabbing](01-introduction-homelabbing.md)
+
+# Personnal background
 
 Every homelab is shaped by the person running it.
 
@@ -9,15 +15,15 @@ Every homelab is shaped by the person running it.
 
 This is where I come from:
 
-Up until the second half of 2025, I never really *got* homelabbing.
-
-I had seen some of Jeff Geerling's content ([Github](https://github.com/geerlingguy) | [YouTube](https://www.youtube.com/c/JeffGeerling)), but that was about it. To me, homelabbing looked like an expensive hobby focused on running third-party software and making network cabinets look good on Reddit.
+Up until the second half of 2025, I never really *got* homelabbing.  
+I had seen some of Jeff Geerling's content ([Github](https://github.com/geerlingguy) | [YouTube](https://www.youtube.com/c/JeffGeerling)), but that was about it.  
+To me, homelabbing looked like an expensive hobby focused on running third-party software and making network cabinets look good on Reddit.
 
 That said, I do have some background in self-taught software development. I've always been curious about what happens *behind* the  code - infrastructure, networks, deployment and failure modes. I just didn't know how all of that would ever matter to me.
 
 Until it did.
 
-### The Homematic incident
+## The Homematic incident
 
 The moment everything clicked for me was during the setup of a *HomeMaticIP Access Point*.
 
@@ -29,7 +35,7 @@ In doing so, I accidentally - and unknowingly - exposed an unprotected service t
 
 That was my first real "*oh… this is what infrastructure actually means*" moment.
 
-### The inconvenience of "smart" homes
+## The inconvenience of "smart" homes
 
 I'm not a big fan of smart homes - at least not in their current, consumer-ready form. 
 
@@ -39,9 +45,11 @@ In my opinion
 Most smart home devices do neither.
 
 Instead, you end up with:
+
 - Dozens of accounts
 - Multiple apps for different devices
 - Devices that can't talk to each other in a meaningful way despite beeing "Alexa-compatible" or "Google Home-ready"
+
 On top of that, many vendors charge you recurring fees for features your own hardware is already capable of.
 
 I have surveillance cameras with built-in AI chips - yet object detection and notifications are locked behind a subscription.
@@ -50,7 +58,7 @@ At the same time, we're used to "owning" digital products that we don't actually
 
 You pay - but control and ownership stays elsewhere. 
 
-### My personal goal
+## My personal goal
 
 From that point on, my goals become fairly clear:
 
@@ -60,17 +68,19 @@ From that point on, my goals become fairly clear:
 - [ ] My data, my services and my products belong to me
 - [ ] No unnecessary e-waste or sudden vendor rug-pulls
 
-### The costs of self-hosting
+## The costs of self-hosting
 I can't afford enterprise-grade setups or harware - and I don't want to.
 
 I’m lucky enough to have a close relative working in IT, which means I occasionally get access to used hardware that would otherwise be thrown away. Apart from that, my setup relies on:
+
 - Old PC-parts from my basement
 - eBay finds
 - Making things work even when they don't want to
 - Constantly monitoring resource usage
 
-The cost of my homelab should support learning - never endanger my quality of life.
-
+The cost of my homelab should support learning - never endanger my quality of life.  
 At the end of the day, freedom of choice isn’t worth much if it comes at the cost of financial stress.
 
-</details>
+<br></br>
+
+← [Introduction](../readme.md) · Next → [Introduction to homelabbing](01-introduction-homelabbing.md)
