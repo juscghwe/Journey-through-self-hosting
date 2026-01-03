@@ -8,7 +8,7 @@ nav_order: 1
 @author juscghwe ([Github](https://github.com/juscghwe))
 @brief Introduction into my person.
 -->
-[← Introduction](README.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)
+[← Introduction](index.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)
 
 # Personnal background
 
@@ -88,4 +88,4 @@ At the end of the day, freedom of choice isn’t worth much if it comes at the c
 
 
 
-[← Introduction](README.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)
+[← Introduction](index.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)
