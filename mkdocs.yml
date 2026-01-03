@@ -5,7 +5,7 @@ site_author: juscghwe
 copyright: Copyright (c)2025 juscghwe
 
 repo_name: juscghwe/Journey-through-self-hosting
-repo_url: https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs
+repo_url: https://github.com/juscghwe/Journey-through-self-hosting
 
 theme:
   name: 'material'
