@@ -1,13 +1,13 @@
-<!-- 
-@file /readme.md 
-@author juscghwe ([Github](https://github.com/juscghwe))
-@brief Introduction to the project.
--->
 ---
 layout: default
 title: Home
 nav_order: 0
 ---
+<!-- 
+@file /readme.md 
+@author juscghwe ([Github](https://github.com/juscghwe))
+@brief Introduction to the project.
+-->
 ← · [Personal background →](00-personal-background.md)
 
 # My Journey through Self-Hosting

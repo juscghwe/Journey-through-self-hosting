@@ -1,13 +1,13 @@
-<!-- 
-@file /docs/00-personal-background.md 
-@author juscghwe ([Github](https://github.com/juscghwe))
-@brief Introduction into my person.
--->
 ---
 layout: default
 title: Personnal background
 nav_order: 1
 ---
+<!-- 
+@file /docs/00-personal-background.md 
+@author juscghwe ([Github](https://github.com/juscghwe))
+@brief Introduction into my person.
+-->
 [← Introduction](README.md) · [→ Introduction to homelabbing](01-introduction-homelabbing.md)
 
 # Personnal background
