@@ -18,8 +18,7 @@ This repository is my attempt to document what I’ve learned while getting into
 
 This is not a polished guide. It’s a living document that grows as I learn.
 
-{: .important }
-> Important
+> [!IMPORTANT]
 >
 > I'm not an IT professional, and this is not a security or privacy handbook.  
 > This repository documents my personal learning journey - including wrong turns and open questions.
