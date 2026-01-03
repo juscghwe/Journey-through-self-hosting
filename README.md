@@ -4,6 +4,9 @@
 @brief Introduction to the repo.
 -->
 
+> [!Warning]
+> This branch contains an abandoned Jekyll-based documentation setup. It is kept for reference only and no longer maintained. The active documentation lives on the `main` branch and uses `MkDocs`.
+
 # My Journey into Self-Hosting
 
 This repository documents my personal journey into self-hosting and homelabbing.
