@@ -29,6 +29,17 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+          working-directory: "${{ github.workspace }}/docs"
+
+      - name: Build site
+        working-directory: docs
+        run: bundle exec jekyll build -d ../_site
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
